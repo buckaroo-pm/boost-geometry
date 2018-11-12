@@ -20,5 +20,8 @@ stdcerr
 # Buck
 /.buckd/
 /buck-out/
+/cache/
+/buckaroo/
+/buckaroo-packages/
 .buckconfig.local
 BUCKAROO_DEPS
