@@ -1,0 +1,9 @@
+manifest = "cf5ca276dde0fe8f5b851de2f5b7bd8f889f1b528bcd3977cbe6908838951807"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+target = "//:mpl"
+
+[[lock]]
+name = "github.com/buckaroo-pm/boost-mpl"
+revision = "8059b930eafc5fbe3f0471642a91a4d202be0714"

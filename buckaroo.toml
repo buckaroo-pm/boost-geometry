@@ -1,0 +1,5 @@
+targets = [ "//:geometry" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
