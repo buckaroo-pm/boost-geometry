@@ -7,3 +7,7 @@ version = "branch=master"
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-math"
 version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-rational"
+version = "branch=master"
