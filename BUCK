@@ -7,6 +7,7 @@ prebuilt_cxx_library(
   ]), 
   deps = [
     'buckaroo.github.buckaroo-pm.boost-mpl//:mpl', 
+    'buckaroo.github.buckaroo-pm.boost-rational//:rational', 
   ], 
   visibility = [
     'PUBLIC', 
