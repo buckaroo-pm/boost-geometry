@@ -8,6 +8,7 @@ prebuilt_cxx_library(
   deps = [
     'buckaroo.github.buckaroo-pm.boost-mpl//:mpl', 
     'buckaroo.github.buckaroo-pm.boost-rational//:rational', 
+    'buckaroo.github.buckaroo-pm.boost-tokenizer//:tokenizer', 
   ], 
   visibility = [
     'PUBLIC', 
