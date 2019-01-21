@@ -38,7 +38,7 @@ revision = "60c77dd14f5bac2b9e6c59f308b7ad20d31f70ab"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
-revision = "ad0d657f10d51aa7a72b6ae530e2e8a13316718e"
+revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
