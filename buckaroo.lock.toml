@@ -54,7 +54,7 @@ revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
-revision = "4f59c5f06f11cd029a85d932ef51b9d511761f49"
+revision = "84411b155dae6f08ea749bdeb1e71aecd0718d52"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
@@ -102,7 +102,7 @@ revision = "e5e11d021064a102a7f1258c8c52fcb40ca25be9"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
-revision = "3f0711cabd643ed902ff3ae3d6746ba2f7256e4e"
+revision = "c50bef004827b93d7f60e3c53b8c9c3b54fa0084"
 
 [lock."github.com/buckaroo-pm/boost-mpl"]
 versions = [ "branch=master" ]
@@ -122,11 +122,11 @@ revision = "9c3529ad17d35171ffaa689ebfee9f21ce616129"
 
 [lock."github.com/buckaroo-pm/boost-predef"]
 versions = [ "branch=master" ]
-revision = "c497db2c821492a2d6b0a16dc7f4edcec8c3aec6"
+revision = "c52d78d2ae7cc323da79c23375b7efe8c2c8078d"
 
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
-revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
+revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-range"]
 versions = [ "branch=master" ]
@@ -198,7 +198,7 @@ revision = "9a7c3874ccb07bdb26fd1e79905aeadb53488b7a"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
-revision = "57aa216434800315c9cd2664169e444e3070a677"
+revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
