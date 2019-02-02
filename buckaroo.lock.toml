@@ -194,7 +194,7 @@ revision = "1cf282fd9cca5c81388251c25c65adc0d3f8cfb3"
 
 [lock."github.com/buckaroo-pm/boost-unordered"]
 versions = [ "branch=master" ]
-revision = "9a7c3874ccb07bdb26fd1e79905aeadb53488b7a"
+revision = "9cc71067825a32bfcd7249d607fcd5f895682502"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
