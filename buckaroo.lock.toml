@@ -86,7 +86,7 @@ revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
-revision = "70c28ebaa83b1fd6907db8f542d7be8abc6835b4"
+revision = "e6f5b8de720f0a55409b6ef901f9ae7e676c6cd9"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
@@ -146,7 +146,7 @@ revision = "1db2ae17e5e5b188688bbab0fca61731b4d9d6d8"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
-revision = "9e8d936f28b7a384aa6988875967bc43ca665286"
+revision = "38c41c38fa602585abfe131b1c889310dbaadf24"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
@@ -158,7 +158,7 @@ revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "16cad275bcf88549063d1f01a4fbf483ea36e7cd"
+revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
 
 [lock."github.com/buckaroo-pm/boost-test"]
 versions = [ "branch=master" ]
