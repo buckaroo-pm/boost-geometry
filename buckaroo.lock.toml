@@ -110,7 +110,7 @@ revision = "a1873af9c1d31fb8ec2a87482b6bb9729439b4ac"
 
 [lock."github.com/buckaroo-pm/boost-multiprecision"]
 versions = [ "branch=master" ]
-revision = "d931e50f7e9eb5d846aab6dff882728802d84361"
+revision = "7b8034e789068629ce2698f8ab76e206a4f7db8b"
 
 [lock."github.com/buckaroo-pm/boost-numeric_conversion"]
 versions = [ "branch=master" ]
