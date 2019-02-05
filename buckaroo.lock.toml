@@ -46,7 +46,7 @@ revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
-revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
+revision = "efac3fd353ac5f106dbffb0813ad5e67688ee84d"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
@@ -82,7 +82,7 @@ revision = "43c7296e8513fcb9cda6e88396e863995c0d0cb5"
 
 [lock."github.com/buckaroo-pm/boost-intrusive"]
 versions = [ "branch=master" ]
-revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
+revision = "b78ebe67512688e4402ce97d2ee7e28652da3ff3"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
@@ -94,7 +94,7 @@ revision = "6cf70fbf057ecbfec43013b7e39ef5011000798a"
 
 [lock."github.com/buckaroo-pm/boost-lexical_cast"]
 versions = [ "branch=master" ]
-revision = "9f6d656caf4b0037327c426219de6ef676a2ccdc"
+revision = "4a042cb0006e6bbdced9a44da97eb894521df42f"
 
 [lock."github.com/buckaroo-pm/boost-math"]
 versions = [ "branch=master" ]
@@ -134,11 +134,11 @@ revision = "2fcd53bd05419d4aedacacee1465f593433c15f0"
 
 [lock."github.com/buckaroo-pm/boost-ratio"]
 versions = [ "branch=master" ]
-revision = "dabc418e4bb7a180d5d17c84fb4f0bd61a9ee024"
+revision = "1f612eed94abde0cba9d7410f57497d9b7fec768"
 
 [lock."github.com/buckaroo-pm/boost-rational"]
 versions = [ "branch=master" ]
-revision = "7a75e06a78e0481cb636412a62764f628ec8e56b"
+revision = "606d602160bb1dd48971708e40e92da5d84ead40"
 
 [lock."github.com/buckaroo-pm/boost-regex"]
 versions = [ "branch=master" ]
