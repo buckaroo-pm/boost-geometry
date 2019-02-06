@@ -98,7 +98,7 @@ revision = "4a042cb0006e6bbdced9a44da97eb894521df42f"
 
 [lock."github.com/buckaroo-pm/boost-math"]
 versions = [ "branch=master" ]
-revision = "7edadf5407d9d675ac67f178dd6b97237ffac1d9"
+revision = "74c85206c328616cbda79d763f208ad201c50222"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
