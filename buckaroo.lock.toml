@@ -158,7 +158,7 @@ revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
+revision = "06fdddd7c66e5ebde6e208f6ec6f25383ffedcd3"
 
 [lock."github.com/buckaroo-pm/boost-test"]
 versions = [ "branch=master" ]
