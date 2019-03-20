@@ -218,4 +218,4 @@ revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+revision = "7dfc9d72ec1fd0a47d0ef4f8e7756c797ad26f53"
