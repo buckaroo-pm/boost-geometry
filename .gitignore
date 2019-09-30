@@ -1,18 +1,10 @@
-*~
-*.swp
-
-# Boost.Build
-stdcerr
-
-# Visual Studio (Code)
-/.vs
-.vscode
-
-# CMake
-/*build*
-/cmake-build-debug/
-/cmake-build-release/
-/CMakeSettings.json
-
-# JetBrains
-/.idea
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo-packages
+cache
+BUCKAROO_DEPS
+buckaroo_macros.bzl
+bazel-*
